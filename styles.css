@@ -1,0 +1,32 @@
+html{
+  height: 100%;
+  width: 100%;
+}
+
+nav ul{
+  list-style-type: none;
+  background-color: rgb(141, 141, 139);
+  padding-left: 0px;
+}
+
+ nav ul li {
+   display: inline;
+ }
+
+nav ul li a {   
+   display: inline-block;
+   padding: 10px;
+   text-decoration: none;
+   font-weight: bold;
+   font-family: arial;
+   color:#131c26;
+ }
+
+ nav ul li a:hover {
+   background-color: #742c36;
+   color: white;
+ }
+
+ header img {
+   width: 200px;
+ }
